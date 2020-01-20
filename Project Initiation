@@ -1,0 +1,39 @@
+
+In a recent citywide survey, Manchester residents displayed mass confusion regarding waste collection. This stems from primarily 2 sources;
+1.	Which bins are collected on specific days.
+2.	What items are put into each bins. 
+This confusion leads to either the incorrect bin being set out or incorrect items being placed within them. This in turn contaminates the rest of the batch, costing the council £600,000 annually to rectify. Further analysis identified that the overwhelming majority of these residents preferred having access to information on their phones. In order to address these two findings, we are proposing to create a new council app which provides comprehensive details of the waste collection legislation pertaining to a user’s locality. In addition to the yearly cost savings accumulated through educating residents on which bin houses which items (and what not to put into each bin), this project also aims to safeguard funds and the environment via removing the need to print and distribute leaflets, pamphlets and posters containing this very information.     
+
+For this project, we require the following resources:
+•	Time and skill of at least 2 developers trained in React Native JavaScript. 
+If current IT employees are found who fulfil this criterion, then they would need to be transferred over to the project team. 
+Otherwise funds would be required to hire contractors, if there are no internal resources with the relevant skillset. Current market rate for these consultants are around £55,000 to £60,000 per year.
+
+•	Secondment of members from the digital comms team to broadcast any progress with the project to the relevant parties and manage the advertising of this app to our users.
+
+•	Consultation with the compliance and security teams over storage of users’ information and the security of this data.                               
+
+•	Android studio (software that the development is being done on) which requires high specs for devices that are running it. 
+
+•	To improve the accessibility of our app, we are planning on making this app available on apple devices as well. Therefore, we would require Expo CLI (This is free open source software).     
+
+
+
+
+
+Further intended benefits of our app:
+-	Less complaints about bins/ increase in resident satisfaction
+-	Less waste at landfill sites translating to less damage of our environment
+-	Specialised service for residents to post comments/queries/issues with their bins 
+List of stakeholders for this project;
+-	MCC (Manchester City Council)
+-	Manchester citizens (the users)
+-	Biffa (Waste disposal company)
+-	App Store and Google Play
+-	UK government
+
+Dependencies of this project:
+-	Timetable information is current and accurate. This would need to be checked on a weekly basis and updated if incorrect.
+-	Availability of development machines with required spec for Android Studio. If not present at the council, would need to be procured. Laptops with this spec cost about £650 each, so £1300 would be required if 2 developers are being utilised and £650 more for each developer that is added onto the project.
+
+We plan to manage this project using the Agile methodology.
