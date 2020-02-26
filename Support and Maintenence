@@ -1,0 +1,53 @@
+System selected- ServiceNow.
+
+Key activity to support/maintain system
+Upgrade system to most current version
+
+Analysis of activity’s importance and function/Critical Success Factor (CSF)
+Support is only provided to most recent version of system 
+CSF = more robust service with less downtime as a result of staying within support
+	Improved functionality due to being on most recent version.   
+
+Resources required
+Upgrade outsourced to external company.
+
+Main issues and solutions
+Managing disruption to other services during upgrades (system is used by the entire IT department)  
+Disruption can be minimised by scheduling upgrades outside of core hours e.g. On weekends.   
+
+
+Key activity
+Training additional resources to support the ServiceNow admins.
+ 
+Activity analysis + CSF
+Currently only a single person is employed within the ServiceNow development team, therefore there is a need to ensure that more resources are assigned here in order to sustain the team- specifically, and ServiceNow- generally, in the long term. 
+CSV = enough resources within the team to maintain system in the long term
+ 
+Resource required
+Additional employees
+Funds to train these employees
+
+Main Issues + possible solutions
+At present, company is not able to attract experienced ServiceNow admins as current pay is below market rate. If company’s rate was increased to reflect industry standard then they would be able to hire admins who are already familiar with the system, hence would not be requiring training.
+
+
+Activity
+Ticket raised if issues with a system is identified.
+
+Analysis + CSF
+Ticket is assigned to relevant team to investigate issue.
+CSV = solution to issue identified and implemented; resolution communicated to user.
+
+Main issues + possible solutions
+Ticket could be left undealt with within the system. To resolve this each team could potentially have someone within them who is responsible for checking that any calls relating to their team is being looked at, either by themselves or by another member of the team.
+
+
+Activity
+Clone over instances
+
+Analysis + CSF
+Instances which are cloned are more secure than those that are not because a back up exists for them in case the system was to ever go down.
+CSF = all instances cloned to make system as reliable as possible
+
+Issues + possible solutions
+Cloning could occur while a system user is working on the instance that is being cloned. To prevent this, the system admin carrying out the cloning should notify fellow users that the cloning is taking place.
